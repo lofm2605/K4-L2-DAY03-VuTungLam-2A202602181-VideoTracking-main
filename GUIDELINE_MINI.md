@@ -7,7 +7,7 @@
 > người trong nhóm gán khác nhau, gần như luôn là vì file này chưa nói rõ — chứ
 > không phải vì ai kém.
 
-Nhóm / tên: `...`
+Nhóm / tên: Vũ Tùng Lâm — 2A202602181 (làm cá nhân)
 Clip: `clip_01`, `clip_02`
 
 ---
